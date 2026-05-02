@@ -11,7 +11,7 @@
 
 ```
 ├── logging_middleware/          # Reusable logging middleware package
-├── vehicle_maintence_scheduler/ # Vehicle Maintenance Scheduler (0/1 Knapsack DP)
+├── vehicle_scheduling/          # Vehicle Maintenance Scheduler (0/1 Knapsack DP)
 ├── notification_app_be/         # Priority Inbox implementation (Stage 6)
 ├── notification_system_design.md # System design document (Stages 1-6)
 └── README.md
@@ -36,7 +36,7 @@ A comprehensive system design document (`notification_system_design.md`) coverin
 
 ### Vehicle Scheduler
 ```bash
-cd vehicle_maintence_scheduler
+cd vehicle_scheduling
 npm install
 npx tsc
 node dist/index.js
