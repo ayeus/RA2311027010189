@@ -131,7 +131,7 @@ async function run() {
     const token = fs.readFileSync(tokenPath, 'utf8').trim();
     setLogToken(token);
 
-    await Log("backend", "info", "domain", "Starting Priority Inbox fetch process");
+    await Log("backend", "info", "service", "Starting Priority Inbox fetch process");
 
     const inbox = new PriorityInbox(10);
 
@@ -141,7 +141,7 @@ async function run() {
         });
 
         if (!response.ok) {
-            await Log("backend", "error", "api", `Failed to fetch notifications: ${response.status}`);
+            await Log("backend", "error", "service", `Failed to fetch notifications: ${response.status}`);
             return;
         }
 
@@ -159,11 +159,11 @@ async function run() {
             console.log(`${index + 1}. [${notif.Type}] ${notif.Message} (${notif.Timestamp})`);
         });
 
-        await Log("backend", "info", "domain", "Priority Inbox processed successfully");
+        await Log("backend", "info", "service", "Priority Inbox processed successfully");
 
     } catch (e: any) {
         console.error(e);
-        await Log("backend", "fatal", "api", "Exception while fetching priority inbox: " + e.message);
+        await Log("backend", "fatal", "service", "Exception while fetching priority inbox: " + e.message);
     }
 }
 

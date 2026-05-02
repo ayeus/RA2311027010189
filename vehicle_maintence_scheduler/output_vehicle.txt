@@ -1,0 +1,164 @@
+=== VEHICLE SCHEDULING RESULTS ===
+
+Processing Depot 1 (Budget: 60 hours)
+- Optimal Total Impact: 124
+- Total Duration Used: 60
+- Selected Task IDs:
+  * f0ffce68-4707-4e5e-9d0a-58610428e062
+  * f3de985b-5aa8-40d3-823b-eae2bfb68e75
+  * 05f80a9c-7730-4511-ac39-6f878276c023
+  * 1a327c5e-69c6-4375-aa2c-70c5cddf64d6
+  * b808b022-36c7-43f0-9d0d-473254191292
+  * 05ee4145-5a87-424b-8c4a-2d5eaa540e98
+  * badda8bb-69b0-47a9-9448-42a73a09a77f
+  * b2cc069e-710f-4ac3-9b35-687a6dbe408e
+  * 9b10e0e1-2562-4a76-b7ab-12645021bb8d
+  * d313d202-cf78-4d4a-8aaf-3ae6efa38817
+  * 8e1aa1d3-a71e-43dd-8abd-a8c4715f120f
+  * b77040e8-f018-4761-8db3-bdd6c9eb837e
+  * 5bd71241-3f19-495c-9029-7e96fdb841d6
+  * 684e7375-943f-40cb-bcf4-d4edd467d70f
+  * 3add6f1e-f11c-49ae-ac85-d49a79625e48
+  * 9f3916bc-c3c7-4cc0-acf1-b8426fb08652
+
+Processing Depot 2 (Budget: 135 hours)
+- Optimal Total Impact: 192
+- Total Duration Used: 135
+- Selected Task IDs:
+  * cdcb7aa7-69e0-4a29-9562-0b6d0f21c93a
+  * 5ca15b68-2b4b-4e52-a5d2-fce59ed9b5d3
+  * f0ffce68-4707-4e5e-9d0a-58610428e062
+  * f3de985b-5aa8-40d3-823b-eae2bfb68e75
+  * e506858d-502c-4d37-b8a9-ac14fd76fd66
+  * 40030af1-53fe-4371-ad5c-f19058a4607b
+  * 05f80a9c-7730-4511-ac39-6f878276c023
+  * 300c8465-4bea-46a0-9e82-9034dc1199b7
+  * 995f40f9-1b78-4813-9c33-c8f9dbaf1fe3
+  * 1a327c5e-69c6-4375-aa2c-70c5cddf64d6
+  * b808b022-36c7-43f0-9d0d-473254191292
+  * 47e913bf-aeb8-4da2-b106-adf8527da719
+  * 05ee4145-5a87-424b-8c4a-2d5eaa540e98
+  * 4bf4c144-0ec1-449f-ad0b-2799f0344d85
+  * badda8bb-69b0-47a9-9448-42a73a09a77f
+  * b2cc069e-710f-4ac3-9b35-687a6dbe408e
+  * 9b10e0e1-2562-4a76-b7ab-12645021bb8d
+  * d313d202-cf78-4d4a-8aaf-3ae6efa38817
+  * 8e1aa1d3-a71e-43dd-8abd-a8c4715f120f
+  * 3f0d0a1d-3fe9-4f0b-bc6d-3396e159616c
+  * b77040e8-f018-4761-8db3-bdd6c9eb837e
+  * 5bd71241-3f19-495c-9029-7e96fdb841d6
+  * 684e7375-943f-40cb-bcf4-d4edd467d70f
+  * bc8a99fb-7c59-4706-80d6-a2f1b9060511
+  * d855b239-30ce-4285-988b-38554d6ec4c7
+  * 3add6f1e-f11c-49ae-ac85-d49a79625e48
+  * ad10c0fe-aec6-406c-b601-6a0a82db9abd
+  * 9f3916bc-c3c7-4cc0-acf1-b8426fb08652
+
+Processing Depot 3 (Budget: 188 hours)
+- Optimal Total Impact: 210
+- Total Duration Used: 188
+- Selected Task IDs:
+  * cdcb7aa7-69e0-4a29-9562-0b6d0f21c93a
+  * 5ca15b68-2b4b-4e52-a5d2-fce59ed9b5d3
+  * 6d3ef401-1b44-4774-bc6a-1815e9863354
+  * f0ffce68-4707-4e5e-9d0a-58610428e062
+  * f3de985b-5aa8-40d3-823b-eae2bfb68e75
+  * e506858d-502c-4d37-b8a9-ac14fd76fd66
+  * 33cdc208-7beb-4135-adc3-ba33cf56255f
+  * 40030af1-53fe-4371-ad5c-f19058a4607b
+  * 05f80a9c-7730-4511-ac39-6f878276c023
+  * d0836ad1-a7ef-4f6c-95ee-fb2ae8b6dfd8
+  * 300c8465-4bea-46a0-9e82-9034dc1199b7
+  * cfe42b4b-5267-43fa-b4ad-c08f183c693e
+  * 27008a37-67f2-41d7-9eb5-b58d91a7c19e
+  * 995f40f9-1b78-4813-9c33-c8f9dbaf1fe3
+  * 98fdcac9-5478-41c2-9015-7c98ba89411a
+  * 56418d19-13a0-4374-8595-3bc44cb788b0
+  * 1a327c5e-69c6-4375-aa2c-70c5cddf64d6
+  * b808b022-36c7-43f0-9d0d-473254191292
+  * 47e913bf-aeb8-4da2-b106-adf8527da719
+  * 05ee4145-5a87-424b-8c4a-2d5eaa540e98
+  * 4bf4c144-0ec1-449f-ad0b-2799f0344d85
+  * badda8bb-69b0-47a9-9448-42a73a09a77f
+  * b2cc069e-710f-4ac3-9b35-687a6dbe408e
+  * 9b10e0e1-2562-4a76-b7ab-12645021bb8d
+  * d313d202-cf78-4d4a-8aaf-3ae6efa38817
+  * 8e1aa1d3-a71e-43dd-8abd-a8c4715f120f
+  * 2893458c-0095-4b2c-9844-64b8f6aaea88
+  * 3f0d0a1d-3fe9-4f0b-bc6d-3396e159616c
+  * b77040e8-f018-4761-8db3-bdd6c9eb837e
+  * 5bd71241-3f19-495c-9029-7e96fdb841d6
+  * 684e7375-943f-40cb-bcf4-d4edd467d70f
+  * bc8a99fb-7c59-4706-80d6-a2f1b9060511
+  * d855b239-30ce-4285-988b-38554d6ec4c7
+  * 8aa9401e-4956-49cd-873a-064c8351fa63
+  * 5d14de9c-6851-48b0-992b-f1a30afd3d63
+  * 3add6f1e-f11c-49ae-ac85-d49a79625e48
+  * ad10c0fe-aec6-406c-b601-6a0a82db9abd
+  * 9f3916bc-c3c7-4cc0-acf1-b8426fb08652
+
+Processing Depot 4 (Budget: 97 hours)
+- Optimal Total Impact: 166
+- Total Duration Used: 97
+- Selected Task IDs:
+  * cdcb7aa7-69e0-4a29-9562-0b6d0f21c93a
+  * f0ffce68-4707-4e5e-9d0a-58610428e062
+  * f3de985b-5aa8-40d3-823b-eae2bfb68e75
+  * 40030af1-53fe-4371-ad5c-f19058a4607b
+  * 05f80a9c-7730-4511-ac39-6f878276c023
+  * 300c8465-4bea-46a0-9e82-9034dc1199b7
+  * 1a327c5e-69c6-4375-aa2c-70c5cddf64d6
+  * b808b022-36c7-43f0-9d0d-473254191292
+  * 05ee4145-5a87-424b-8c4a-2d5eaa540e98
+  * badda8bb-69b0-47a9-9448-42a73a09a77f
+  * b2cc069e-710f-4ac3-9b35-687a6dbe408e
+  * 9b10e0e1-2562-4a76-b7ab-12645021bb8d
+  * d313d202-cf78-4d4a-8aaf-3ae6efa38817
+  * 8e1aa1d3-a71e-43dd-8abd-a8c4715f120f
+  * 3f0d0a1d-3fe9-4f0b-bc6d-3396e159616c
+  * b77040e8-f018-4761-8db3-bdd6c9eb837e
+  * 5bd71241-3f19-495c-9029-7e96fdb841d6
+  * 684e7375-943f-40cb-bcf4-d4edd467d70f
+  * bc8a99fb-7c59-4706-80d6-a2f1b9060511
+  * d855b239-30ce-4285-988b-38554d6ec4c7
+  * 3add6f1e-f11c-49ae-ac85-d49a79625e48
+  * 9f3916bc-c3c7-4cc0-acf1-b8426fb08652
+
+Processing Depot 5 (Budget: 164 hours)
+- Optimal Total Impact: 205
+- Total Duration Used: 164
+- Selected Task IDs:
+  * cdcb7aa7-69e0-4a29-9562-0b6d0f21c93a
+  * 5ca15b68-2b4b-4e52-a5d2-fce59ed9b5d3
+  * 6d3ef401-1b44-4774-bc6a-1815e9863354
+  * f0ffce68-4707-4e5e-9d0a-58610428e062
+  * f3de985b-5aa8-40d3-823b-eae2bfb68e75
+  * e506858d-502c-4d37-b8a9-ac14fd76fd66
+  * 40030af1-53fe-4371-ad5c-f19058a4607b
+  * 05f80a9c-7730-4511-ac39-6f878276c023
+  * 300c8465-4bea-46a0-9e82-9034dc1199b7
+  * 27008a37-67f2-41d7-9eb5-b58d91a7c19e
+  * 995f40f9-1b78-4813-9c33-c8f9dbaf1fe3
+  * 98fdcac9-5478-41c2-9015-7c98ba89411a
+  * 1a327c5e-69c6-4375-aa2c-70c5cddf64d6
+  * b808b022-36c7-43f0-9d0d-473254191292
+  * 47e913bf-aeb8-4da2-b106-adf8527da719
+  * 05ee4145-5a87-424b-8c4a-2d5eaa540e98
+  * 4bf4c144-0ec1-449f-ad0b-2799f0344d85
+  * badda8bb-69b0-47a9-9448-42a73a09a77f
+  * b2cc069e-710f-4ac3-9b35-687a6dbe408e
+  * 9b10e0e1-2562-4a76-b7ab-12645021bb8d
+  * d313d202-cf78-4d4a-8aaf-3ae6efa38817
+  * 8e1aa1d3-a71e-43dd-8abd-a8c4715f120f
+  * 2893458c-0095-4b2c-9844-64b8f6aaea88
+  * 3f0d0a1d-3fe9-4f0b-bc6d-3396e159616c
+  * b77040e8-f018-4761-8db3-bdd6c9eb837e
+  * 5bd71241-3f19-495c-9029-7e96fdb841d6
+  * 684e7375-943f-40cb-bcf4-d4edd467d70f
+  * bc8a99fb-7c59-4706-80d6-a2f1b9060511
+  * d855b239-30ce-4285-988b-38554d6ec4c7
+  * 8aa9401e-4956-49cd-873a-064c8351fa63
+  * 5d14de9c-6851-48b0-992b-f1a30afd3d63
+  * 3add6f1e-f11c-49ae-ac85-d49a79625e48
+  * ad10c0fe-aec6-406c-b601-6a0a82db9abd
+  * 9f3916bc-c3c7-4cc0-acf1-b8426fb08652

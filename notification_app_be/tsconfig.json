@@ -8,9 +8,7 @@
     "skipLibCheck": true,
     "outDir": "./dist",
     "rootDir": "./",
-    "moduleResolution": "node",
-    "types": ["node"],
-    "ignoreDeprecations": "6.0"
+    "types": ["node"]
   },
   "include": ["src/**/*", "priority_inbox.ts"]
 }

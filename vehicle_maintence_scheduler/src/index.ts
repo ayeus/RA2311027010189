@@ -14,7 +14,7 @@ async function run() {
     const token = fs.readFileSync(tokenPath, 'utf8').trim();
     setLogToken(token);
 
-    await Log("backend", "info", "domain", "Starting Vehicle Maintenance Scheduler");
+    await Log("backend", "info", "service", "Starting Vehicle Maintenance Scheduler");
 
     try {
         const headers = { "Authorization": `Bearer ${token}` };
@@ -43,14 +43,14 @@ async function run() {
             console.log(`- Selected Task IDs:`);
             result.selectedTasks.forEach(id => console.log(`  * ${id}`));
             
-            await Log("backend", "info", "handler", `Scheduled ${result.selectedTasks.length} tasks for Depot ${depot.ID}`);
+            await Log("backend", "info", "controller", `Scheduled ${result.selectedTasks.length} tasks for Depot ${depot.ID}`);
         }
 
-        await Log("backend", "info", "domain", "Vehicle scheduling completed");
+        await Log("backend", "info", "service", "Vehicle scheduling completed");
 
     } catch (e: any) {
         console.error(e);
-        await Log("backend", "fatal", "api", "Exception in vehicle scheduler: " + e.message);
+        await Log("backend", "fatal", "service", "Exception in vehicle scheduler: " + e.message);
     }
 }
 
